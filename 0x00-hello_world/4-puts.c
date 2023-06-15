@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
  * main - prints "Programming is like buildiing a multilingual
- * puzzle, followed by a new line."
- * return 0.
+ * puzzle, followed by a newline.
+ * Return: Always 0.
  */
 
 int main(void)
